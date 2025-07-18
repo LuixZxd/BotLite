@@ -1,6 +1,6 @@
 /* 
 *
-* Venda de código proibida
+* Venda de código proibida.
 * Projeto feito por ton/bayt criador da laura main
 * Versão melhorada e otimizada de laura main 
 * Grupo oficial https://chat.whatsapp.com/F7IrLGErFucGvBvDGQrfUR
